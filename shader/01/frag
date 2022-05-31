@@ -1,0 +1,5 @@
+<script id="2d-fragment-shader" type="x-shader/x-fragment">
+void main() {
+  gl_FragColor = vec4(0, 1, 0, 1);  // green
+}
+</script>
